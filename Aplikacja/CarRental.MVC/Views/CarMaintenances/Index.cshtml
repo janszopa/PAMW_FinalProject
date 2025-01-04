@@ -1,0 +1,36 @@
+@model IEnumerable<CarRental.Shared.DTO.CarMaintenanceDTO>
+
+<h1>Car Maintenances</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Add new maintenance</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Car Brand</th>
+            <th>Car Model</th>
+            <th>Service Date</th>
+            <th>Description</th>
+            <th>Cost</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var maintenance in Model)
+        {
+            <tr>
+                <td>@maintenance.CarBrand</td>
+                <td>@maintenance.CarModel</td>
+                <td>@maintenance.ServiceDate.ToShortDateString()</td>
+                <td>@maintenance.Description</td>
+                <td>@maintenance.Cost</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@maintenance.CarMaintenanceId" class="btn btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@maintenance.CarMaintenanceId" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

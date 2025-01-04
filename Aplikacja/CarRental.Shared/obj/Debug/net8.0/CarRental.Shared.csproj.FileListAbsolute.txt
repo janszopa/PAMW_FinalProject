@@ -1,0 +1,11 @@
+/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.Shared/bin/Debug/net8.0/CarRental.Shared.deps.json
+/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.Shared/bin/Debug/net8.0/CarRental.Shared.dll
+/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.Shared/bin/Debug/net8.0/CarRental.Shared.pdb
+/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.Shared/obj/Debug/net8.0/CarRental.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.Shared/obj/Debug/net8.0/CarRental.Shared.AssemblyInfoInputs.cache
+/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.Shared/obj/Debug/net8.0/CarRental.Shared.AssemblyInfo.cs
+/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.Shared/obj/Debug/net8.0/CarRental.Shared.csproj.CoreCompileInputs.cache
+/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.Shared/obj/Debug/net8.0/CarRental.Shared.dll
+/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.Shared/obj/Debug/net8.0/refint/CarRental.Shared.dll
+/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.Shared/obj/Debug/net8.0/CarRental.Shared.pdb
+/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.Shared/obj/Debug/net8.0/ref/CarRental.Shared.dll

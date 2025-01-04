@@ -1,0 +1,127 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CarRental.MVC
+build_property.RootNamespace = CarRental.MVC
+build_property.ProjectDir = /Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.MVC/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.MVC
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.MVC/Views/CarMaintenances/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FyTWFpbnRlbmFuY2VzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.MVC/Views/CarMaintenances/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FyTWFpbnRlbmFuY2VzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.MVC/Views/CarMaintenances/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FyTWFpbnRlbmFuY2VzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.MVC/Views/CarMaintenances/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FyTWFpbnRlbmFuY2VzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.MVC/Views/Cars/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2Fycy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.MVC/Views/Cars/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2Fycy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.MVC/Views/Cars/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2Fycy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.MVC/Views/Cars/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2Fycy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.MVC/Views/Customers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXJzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.MVC/Views/Customers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXJzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.MVC/Views/Customers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXJzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.MVC/Views/Customers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXJzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.MVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.MVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.MVC/Views/Payments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5bWVudHMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.MVC/Views/Payments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5bWVudHMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.MVC/Views/Payments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5bWVudHMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.MVC/Views/Payments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5bWVudHMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.MVC/Views/Rentals/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVudGFscy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.MVC/Views/Rentals/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVudGFscy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.MVC/Views/Rentals/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVudGFscy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.MVC/Views/Rentals/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVudGFscy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.MVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/MAB_Stodolski/Aplikacja/CarRental.MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-0jfmc1npbg

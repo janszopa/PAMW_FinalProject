@@ -1,0 +1,62 @@
+@model IEnumerable<CarRental.Shared.DTO.RentalDTO>
+
+<h1>Rentals</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Add new rental</a>
+</p>
+
+<form method="get" asp-action="Index">
+    <div class="form-group">
+        <label for="carBrand">Car Brand</label>
+        <input type="text" name="carBrand" class="form-control" value="@ViewContext.HttpContext.Request.Query["carBrand"]" />
+    </div>
+    <div class="form-group">
+        <label for="carModel">Car Model</label>
+        <input type="text" name="carModel" class="form-control" value="@ViewContext.HttpContext.Request.Query["carModel"]" />
+    </div>
+    <div class="form-group">
+        <label for="customerFirstName">Customer First Name</label>
+        <input type="text" name="customerFirstName" class="form-control" value="@ViewContext.HttpContext.Request.Query["customerFirstName"]" />
+    </div>
+    <div class="form-group">
+        <label for="customerLastName">Customer Last Name</label>
+        <input type="text" name="customerLastName" class="form-control" value="@ViewContext.HttpContext.Request.Query["customerLastName"]" />
+    </div>
+    <button type="submit" class="btn btn-primary mt-3">Filter</button>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Car Brand</th>
+            <th>Car Model</th>
+            <th>Customer First Name</th>
+            <th>Customer Last Name</th>
+            <th>Start Date</th>
+            <th>End Date</th>
+            <th>Total Price</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var rental in Model)
+        {
+            <tr>
+                <td>@rental.RentalId</td>
+                <td>@rental.CarBrand</td>
+                <td>@rental.CarModel</td>
+                <td>@rental.CustomerFirstName</td>
+                <td>@rental.CustomerLastName</td>
+                <td>@rental.StartDate.ToShortDateString()</td>
+                <td>@rental.EndDate.ToShortDateString()</td>
+                <td>@rental.TotalPrice</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@rental.RentalId" class="btn btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@rental.RentalId" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

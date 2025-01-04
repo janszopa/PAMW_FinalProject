@@ -1,0 +1,42 @@
+@model CarRental.Shared.DTO.CarDTO
+
+<h1>Edit Car</h1>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="CarId" />
+    <div class="form-group">
+        <label asp-for="Brand" class="control-label"></label>
+        <input asp-for="Brand" class="form-control" />
+        <span asp-validation-for="Brand" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Model" class="control-label"></label>
+        <input asp-for="Model" class="form-control" />
+        <span asp-validation-for="Model" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Year" class="control-label"></label>
+        <input asp-for="Year" class="form-control" />
+        <span asp-validation-for="Year" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="RentalPrice" class="control-label"></label>
+        <input asp-for="RentalPrice" class="form-control" />
+        <span asp-validation-for="RentalPrice" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="AvailabilityStatus" class="control-label"></label>
+        <select asp-for="AvailabilityStatus" class="form-control">
+            <option value="true">True</option>
+            <option value="false">False</option>
+        </select>
+        <span asp-validation-for="AvailabilityStatus" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Save" class="btn btn-primary mt-3" />
+    </div>
+</form>
+
+<div>
+    <a href="@Url.Action("Index")" class="btn btn-secondary mt-3">Back</a>
+</div>

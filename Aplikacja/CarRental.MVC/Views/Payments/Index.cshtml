@@ -1,0 +1,36 @@
+@model IEnumerable<CarRental.Shared.DTO.PaymentDTO>
+
+<h1>Payments</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Add new payment</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Rental ID</th>
+            <th>Amount</th>
+            <th>Date</th>
+            <th>Method</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var payment in Model)
+        {
+            <tr>
+                <td>@payment.PaymentId</td>
+                <td>@payment.RentalId</td>
+                <td>@payment.Amount</td>
+                <td>@payment.Date.ToShortDateString()</td>
+                <td>@payment.Method</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@payment.PaymentId" class="btn btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@payment.PaymentId" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,35 @@
+@model CarRental.Shared.DTO.RentalDTO
+
+<h1>Edit Rental</h1>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="RentalId" />
+    <div class="form-group">
+        <label asp-for="CarId" class="control-label"></label>
+        <input asp-for="CarId" class="form-control" />
+        <span asp-validation-for="CarId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="CustomerId" class="control-label"></label>
+        <input asp-for="CustomerId" class="form-control" />
+        <span asp-validation-for="CustomerId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="StartDate" class="control-label"></label>
+        <input asp-for="StartDate" class="form-control" />
+        <span asp-validation-for="StartDate" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="EndDate" class="control-label"></label>
+        <input asp-for="EndDate" class="form-control" />
+        <span asp-validation-for="EndDate" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="TotalPrice" class="control-label"></label>
+        <input asp-for="TotalPrice" class="form-control" />
+        <span asp-validation-for="TotalPrice" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary mt-3">Save</button>
+    </div>
+</form>
