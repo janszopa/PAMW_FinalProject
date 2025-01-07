@@ -1,0 +1,12 @@
+C:\Users\Janek\Documents\PW\SEM_5\PAMW\PAMW_FinalProject\TaskManagement.Domain\obj\Debug\net9.0\TaskManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Documents\PW\SEM_5\PAMW\PAMW_FinalProject\TaskManagement.Domain\obj\Debug\net9.0\TaskManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Janek\Documents\PW\SEM_5\PAMW\PAMW_FinalProject\TaskManagement.Domain\obj\Debug\net9.0\TaskManagement.Domain.AssemblyInfo.cs
+C:\Users\Janek\Documents\PW\SEM_5\PAMW\PAMW_FinalProject\TaskManagement.Domain\obj\Debug\net9.0\TaskManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Documents\PW\SEM_5\PAMW\PAMW_FinalProject\TaskManagement.Domain\obj\Debug\net9.0\TaskManagement.Domain.sourcelink.json
+C:\Users\Janek\Documents\PW\SEM_5\PAMW\PAMW_FinalProject\TaskManagement.Domain\bin\Debug\net9.0\TaskManagement.Domain.deps.json
+C:\Users\Janek\Documents\PW\SEM_5\PAMW\PAMW_FinalProject\TaskManagement.Domain\bin\Debug\net9.0\TaskManagement.Domain.dll
+C:\Users\Janek\Documents\PW\SEM_5\PAMW\PAMW_FinalProject\TaskManagement.Domain\bin\Debug\net9.0\TaskManagement.Domain.pdb
+C:\Users\Janek\Documents\PW\SEM_5\PAMW\PAMW_FinalProject\TaskManagement.Domain\obj\Debug\net9.0\TaskManagement.Domain.dll
+C:\Users\Janek\Documents\PW\SEM_5\PAMW\PAMW_FinalProject\TaskManagement.Domain\obj\Debug\net9.0\refint\TaskManagement.Domain.dll
+C:\Users\Janek\Documents\PW\SEM_5\PAMW\PAMW_FinalProject\TaskManagement.Domain\obj\Debug\net9.0\TaskManagement.Domain.pdb
+C:\Users\Janek\Documents\PW\SEM_5\PAMW\PAMW_FinalProject\TaskManagement.Domain\obj\Debug\net9.0\ref\TaskManagement.Domain.dll
