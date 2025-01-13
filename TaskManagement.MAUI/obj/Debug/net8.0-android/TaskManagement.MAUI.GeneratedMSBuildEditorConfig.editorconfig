@@ -1,0 +1,65 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TaskManagement.MAUI
+build_property.ProjectDir = /Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/PAMW_FinalProject/TaskManagement.MAUI/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/PAMW_FinalProject/TaskManagement.MAUI/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskManagement.MAUI.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/PAMW_FinalProject/TaskManagement.MAUI/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskManagement.MAUI.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/PAMW_FinalProject/TaskManagement.MAUI/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskManagement.MAUI.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/PAMW_FinalProject/TaskManagement.MAUI/Pages/CategoriesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskManagement.MAUI.Pages.CategoriesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/CategoriesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/CategoriesPage.xaml
+
+[/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/PAMW_FinalProject/TaskManagement.MAUI/Pages/PeoplePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskManagement.MAUI.Pages.PeoplePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/PeoplePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/PeoplePage.xaml
+
+[/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/PAMW_FinalProject/TaskManagement.MAUI/Pages/TasksPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskManagement.MAUI.Pages.TasksPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/TasksPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/TasksPage.xaml
+
+[/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/PAMW_FinalProject/TaskManagement.MAUI/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskManagement.MAUI.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/PAMW_FinalProject/TaskManagement.MAUI/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskManagement.MAUI.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
